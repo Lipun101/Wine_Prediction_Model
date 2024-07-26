@@ -1,4 +1,4 @@
-# Wine Prediction Model
+# Wine Quality Prediction Model
 This repository contains the implementation of a machine learning model to predict the quality of wine based on various chemical properties. The project involves data preprocessing, exploratory data analysis (EDA), and model building using Linear Regression and Random Forest algorithms.
 
 # Introduction
